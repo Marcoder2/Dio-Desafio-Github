@@ -21,7 +21,7 @@ Sistema de Versionamento de código no qual através deles podemos desenvolver p
 
 
 
-## O que é Git??
+## O que é Github??
 
 O GitHub é uma comunidade ou plataforma em Nuvem para Desenvolvedores compartilhar projetos e também colaborar com projetos compartilhados por outras pessoas.
 
